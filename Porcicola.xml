@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<micmac>
+  <name>Desarrollo de Infraestructura Granja Porcícola Sostenible</name>
+  <matrix size="10">
+    <row>
+      <col>0</col>
+      <col>2</col>
+      <col>1</col>
+      <col>0</col>
+      <col>2</col>
+      <col>1</col>
+      <col>1</col>
+      <col>2</col>
+      <col>0</col>
+      <col>1</col>
+    </row>
+    <row>
+      <col>1</col>
+      <col>0</col>
+      <col>1</col>
+      <col>2</col>
+      <col>2</col>
+      <col>1</col>
+      <col>2</col>
+      <col>3</col>
+      <col>1</col>
+      <col>0</col>
+    </row>
+    <row>
+      <col>2</col>
+      <col>2</col>
+      <col>0</col>
+      <col>1</col>
+      <col>3</col>
+      <col>1</col>
+      <col>2</col>
+      <col>2</col>
+      <col>1</col>
+      <col>2</col>
+    </row>
+    <row>
+      <col>1</col>
+      <col>1</col>
+      <col>0</col>
+      <col>0</col>
+      <col>2</col>
+      <col>1</col>
+      <col>1</col>
+      <col>2</col>
+      <col>1</col>
+      <col>1</col>
+    </row>
+    <row>
+      <col>2</col>
+      <col>1</col>
+      <col>3</col>
+      <col>2</col>
+      <col>0</col>
+      <col>1</col>
+      <col>3</col>
+      <col>2</col>
+      <col>1</col>
+      <col>2</col>
+    </row>
+    <row>
+      <col>0</col>
+      <col>2</col>
+      <col>1</col>
+      <col>1</col>
+      <col>1</col>
+      <col>0</col>
+      <col>2</col>
+      <col>1</col>
+      <col>1</col>
+      <col>2</col>
+    </row>
+    <row>
+      <col>2</col>
+      <col>3</col>
+      <col>2</col>
+      <col>1</col>
+      <col>2</col>
+      <col>2</col>
+      <col>0</col>
+      <col>3</col>
+      <col>1</col>
+      <col>3</col>
+    </row>
+    <row>
+      <col>1</col>
+      <col>2</col>
+      <col>2</col>
+      <col>1</col>
+      <col>3</col>
+      <col>1</col>
+      <col>2</col>
+      <col>0</col>
+      <col>1</col>
+      <col>2</col>
+    </row>
+    <row>
+      <col>1</col>
+      <col>1</col>
+      <col>2</col>
+      <col>1</col>
+      <col>2</col>
+      <col>1</col>
+      <col>1</col>
+      <col>2</col>
+      <col>0</col>
+      <col>1</col>
+    </row>
+    <row>
+      <col>2</col>
+      <col>1</col>
+      <col>2</col>
+      <col>1</col>
+      <col>2</col>
+      <col>3</col>
+      <col>3</col>
+      <col>2</col>
+      <col>2</col>
+      <col>0</col>
+    </row>
+  </matrix>
+  <variables>
+    <var>
+      <longlabel>Disponibilidad de materiales sostenibles</longlabel>
+      <shortlabel>DMS</shortlabel>
+      <description>Disponibilidad de materiales sostenibles para la construcción de la granja porcícola.</description>
+      <theme>Sostenibilidad</theme>
+    </var>
+    <var>
+      <longlabel>Costo de implementación del sistema de energía renovable</longlabel>
+      <shortlabel>CIR</shortlabel>
+      <description>Costos asociados a la instalación de paneles solares y otras tecnologías de energía renovable.</description>
+      <theme>Económico</theme>
+    </var>
+    <var>
+      <longlabel>Gestión de residuos y biogás</longlabel>
+      <shortlabel>GRB</shortlabel>
+      <description>Uso de residuos orgánicos para generar biogás y fertilizantes.</description>
+      <theme>Ambiental</theme>
+    </var>
+    <var>
+      <longlabel>Capacitación del personal en tecnologías sostenibles</longlabel>
+      <shortlabel>CPTS</shortlabel>
+      <description>Formación del personal sobre el uso de tecnologías sostenibles y su impacto.</description>
+      <theme>Social / Técnico</theme>
+    </var>
+    <var>
+      <longlabel>Cumplimiento de normativas ambientales</longlabel>
+      <shortlabel>CNA</shortlabel>
+      <description>Adaptación del proyecto a las normativas ambientales vigentes.</description>
+      <theme>Legal</theme>
+    </var>
+    <var>
+      <longlabel>Demanda del mercado de carne sostenible</longlabel>
+      <shortlabel>DMCS</shortlabel>
+      <description>Nivel de interés del mercado en productos cárnicos sostenibles.</description>
+      <theme>Económico / Marketing</theme>
+    </var>
+    <var>
+      <longlabel>Eficiencia en el uso del agua</longlabel>
+      <shortlabel>EUA</shortlabel>
+      <description>Estrategias para optimizar el uso del agua en la producción porcícola.</description>
+      <theme>Ambiental</theme>
+    </var>
+    <var>
+      <longlabel>Financiación para la implementación</longlabel>
+      <shortlabel>FPI</shortlabel>
+      <description>Obtención de fondos para el desarrollo del proyecto de bio sostenibilidad.</description>
+      <theme>Económico</theme>
+    </var>
+    <var>
+      <longlabel>Impacto social y aceptación de la comunidad local</longlabel>
+      <shortlabel>ISACL</shortlabel>
+      <description>Percepción y aceptación del proyecto por parte de la comunidad local.</description>
+      <theme>Social</theme>
+    </var>
+    <var>
+      <longlabel>Innovación tecnológica disponible</longlabel>
+      <shortlabel>ITD</shortlabel>
+      <description>Disponibilidad de tecnología para optimizar los procesos sostenibles.</description>
+      <theme>Técnico</theme>
+    </var>
+  </variables>
+  <calcul>
+    <iterations>2</iterations>
+    <zerovalue>0</zerovalue>
+    <onevalue>1</onevalue>
+    <twovalue>2</twovalue>
+    <threevalue>3</threevalue>
+    <fourvalue>3</fourvalue>
+  </calcul>
+</micmac>
